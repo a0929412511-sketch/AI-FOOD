@@ -1,0 +1,6 @@
+{
+  "name": "飲控小幫手 - 智慧餐點評分與可愛儀表板",
+  "description": "拍照即時評分餐點熱量與營養，以活潑可愛的 Canvas 動態儀表板與關懷語音陪伴你的健康生活。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
